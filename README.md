@@ -57,6 +57,8 @@ We need to first assess the following information:
 * Communication between services
   * gRPC
   * Protocol buffers
+  * REST
+  * Message queues if no response is required
 * Data pipeline
   * Netflix Suro
   * Apache Spark
@@ -172,6 +174,7 @@ We need to first assess the following information:
 * CI/CD
   * Jenkins
   * CloudBees
+  * CircleCI
 * Static code analysis
   * Sonar
   * PMD
@@ -221,6 +224,7 @@ We need to first assess the following information:
 * If using AWS Lambda, weigh the usage requirements with the budget
 * Design for mobile first
 * Consider the BFF design pattern for different clients (mobile, web)
+* Consider the Saga pattern for failure recovery
 * Avoid premature optimization
 * ORMs are handy for POCs or if the SQL design changes frequently, but not for performance
 * Use REST Standards
