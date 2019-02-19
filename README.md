@@ -56,8 +56,12 @@ We need to first assess the following information:
   * Nginx
 * Communication between services
   * gRPC
+  * HTTP
   * Protocol buffers
   * REST
+  * GraphQL
+  * WebSocket
+  * STOMP
   * Message queues if no response is required
 * Data pipeline
   * Netflix Suro
@@ -164,6 +168,7 @@ We need to first assess the following information:
   * Elastic
 * Message queues
   * JMS (ActiveMQ)
+  * AMQP (RabbitMQ)
   * AWS SQS
   * AWS SNS
   * SQS+SNS (fanout)
@@ -193,6 +198,10 @@ We need to first assess the following information:
   * Apache JMeter
   * Siege
   * Gatling
+* Transaction log tailing
+  * Debezium
+  * LinkedIn Databus
+  * DynamoDB streams
 * Storage
   * AWS S3
 * Serverless
