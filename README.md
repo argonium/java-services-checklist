@@ -235,6 +235,7 @@ We need to first assess the following information:
 * Consider the BFF design pattern for different clients (mobile, web)
 * Consider the Saga pattern for failure recovery
 * Avoid premature optimization
+* Controllers should not throw exceptions
 * ORMs are handy for POCs or if the SQL design changes frequently, but not for performance
 * Use REST Standards
   * POST (create)
