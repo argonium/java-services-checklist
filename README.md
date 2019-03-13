@@ -45,6 +45,7 @@ We need to first assess the following information:
   * Spring
   * Spring Boot
   * Dropwizard
+  * Micronaut (focused on serverless with quick cold starts)
 * Web servers
   * Apache Tomcat
   * Jetty
