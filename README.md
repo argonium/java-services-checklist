@@ -227,6 +227,14 @@ We need to first assess the following information:
   * HTTPScoop
   * Fiddler
   * Charles
+* Java code generators
+  * Lombok
+  * AutoValue
+* Standalone REST clients
+  * Postman
+  * Advanced REST Client
+  * Paw
+  * Insomnia
 
 ## Tips
 
