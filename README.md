@@ -144,6 +144,7 @@ We need to first assess the following information:
   * Spring Cloud Sleuth
   * Dapper
   * HTrace
+  * [Jaeger](https://www.jaegertracing.io/)
 * Data Access Layer
   * Hibernate
   * Spring Data
