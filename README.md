@@ -25,7 +25,7 @@ We need to first assess the following information:
 
 ## Topics (with examples)
 * Java version / JVM language
-  * Java 8, 11
+  * Java 8, 12
   * Scala, Clojure, Kotlin
   * Do we need long-term support?
   * If using Docker, fewer restrictions on the language
@@ -42,16 +42,21 @@ We need to first assess the following information:
   * Digital Ocean
   * Heroku
 * Framework
-  * Spring
-  * Spring Boot
-  * Dropwizard
-  * Micronaut (focused on serverless with quick cold starts)
+  * [Spring](https://spring.io/)
+  * [Spring Boot](https://spring.io/projects/spring-boot)
+  * [Dropwizard](https://www.dropwizard.io/)
+  * [Micronaut](https://micronaut.io/)
+  * [Proteus](https://github.com/noboomu/proteus)
+  * [Rapidoid](https://www.rapidoid.org/)
+  * [Jooby](https://jooby.org/)
 * Web servers
-  * Apache Tomcat
-  * Jetty
-  * Glassfish
-  * Undertow
-  * Grizzly
+  * [Apache Tomcat](http://tomcat.apache.org/)
+  * [Jetty](https://www.eclipse.org/jetty/)
+  * [Glassfish](https://www.oracle.com/technetwork/middleware/glassfish/overview/index.html)
+  * [Undertow](http://undertow.io/)
+  * [Grizzly](https://javaee.github.io/grizzly/)
+  * [JLHTTP](https://www.freeutils.net/source/jlhttp/)
+  * [Vert,x](https://vertx.io/)
 * Reverse proxies
   * Apache
   * Nginx
