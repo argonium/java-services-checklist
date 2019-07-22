@@ -17,6 +17,9 @@ We need to first assess the following information:
   * Availability
   * Testability
   * Code quality
+* Accessibility requirements
+  * ADA
+  * Section 508
 * Legal concerns
   * GDPR
   * Data privacy laws
