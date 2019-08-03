@@ -20,9 +20,13 @@ We need to first assess the following information:
 * Accessibility requirements
   * ADA
   * Section 508
-* Legal concerns
+* Legal concerns and regulations
+  * PCI (credit card data)
+  * SOX (financial)
+  * HIPAA (health care)
+  * SAS-70, SSAE 16, AT801 (auditing)
   * GDPR
-  * Data privacy laws
+  * California Consumer Privacy Act
   * Right to be forgotten
 * Risks
 
@@ -183,6 +187,7 @@ We need to first assess the following information:
   * AWS SNS
   * SQS+SNS (fanout)
   * Akka
+  * [Apache Pulsar](https://pulsar.apache.org/)
 * Dependency management
   * Maven
   * Gradle
