@@ -63,7 +63,7 @@ We need to first assess the following information:
   * [Undertow](http://undertow.io/)
   * [Grizzly](https://javaee.github.io/grizzly/)
   * [JLHTTP](https://www.freeutils.net/source/jlhttp/)
-  * [Vert,x](https://vertx.io/)
+  * [Vert.x](https://vertx.io/)
 * Reverse proxies
   * Apache
   * Nginx
@@ -101,6 +101,10 @@ We need to first assess the following information:
   * Docker
   * Kubernetes
   * AWS Fargate
+* JDBC Connection Pooling
+  * [Apache Commons DBCP](https://commons.apache.org/proper/commons-dbcp/)
+  * [HikariCP](https://brettwooldridge.github.io/HikariCP/)
+  * [C3P0](https://www.mchange.com/projects/c3p0/)
 * Spring REST Specs
   * RAML
   * Swagger
