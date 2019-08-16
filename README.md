@@ -206,8 +206,9 @@ We need to first assess the following information:
 * Code formatter
   * Checkstyle
 * Metrics
-  * Spring Actuator
-  * Dropwizard Metrics
+  * Spring Boot Actuator
+  * [Micrometer](http://micrometer.io/)
+  * [Dropwizard Metrics](https://metrics.dropwizard.io/)
 * Service discovery
   * Zuul
   * Eureka
