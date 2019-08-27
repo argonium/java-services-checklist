@@ -185,15 +185,15 @@ We need to first assess the following information:
 * Text search
   * Elastic
 * Message queues
-  * JMS (ActiveMQ)
-  * AMQP (RabbitMQ)
+  * [Apache ActiveMQ](https://activemq.apache.org/)
+  * [RabbitMQ](https://www.rabbitmq.com/)
   * AWS SQS
   * AWS SNS
   * SQS+SNS (fanout)
-  * Akka
+  * [Akka](https://akka.io/)
   * [Apache Pulsar](https://pulsar.apache.org/)
 * Dependency management
-  * Maven
+  * Apache Maven
   * Gradle
 * CI/CD
   * Jenkins
