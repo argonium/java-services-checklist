@@ -52,6 +52,7 @@ We need to first assess the following information:
   * [Spring](https://spring.io/)
   * [Spring Boot](https://spring.io/projects/spring-boot)
   * [Dropwizard](https://www.dropwizard.io/)
+  * [Helidon](https://helidon.io/)
   * [Micronaut](https://micronaut.io/)
   * [Proteus](https://github.com/noboomu/proteus)
   * [Rapidoid](https://www.rapidoid.org/)
@@ -193,20 +194,22 @@ We need to first assess the following information:
   * [Akka](https://akka.io/)
   * [Apache Pulsar](https://pulsar.apache.org/)
 * Dependency management
-  * Apache Maven
-  * Gradle
+  * [Apache Maven](https://maven.apache.org/)
+  * [Gradle](https://gradle.org/)
 * CI/CD
-  * Jenkins
-  * CloudBees
-  * CircleCI
+  * [Jenkins](https://jenkins.io/)
+  * [CloudBees](https://www.cloudbees.com/)
+  * [CircleCI](https://circleci.com/)
 * Static code analysis
-  * Sonar
-  * PMD
-  * Findbugs
+  * [Sonar](https://www.sonarqube.org/)
+  * [SpotBugs](https://spotbugs.github.io/)
+  * [PMD](https://pmd.github.io/)
+  * [Findbugs](http://findbugs.sourceforge.net/)
+  * [Checkstyle](https://checkstyle.sourceforge.io/)
 * Code formatter
-  * Checkstyle
+  * [Google Java Formatter](https://github.com/google/google-java-format)
 * Metrics
-  * Spring Boot Actuator
+  * [Spring Boot Actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html)
   * [Micrometer](http://micrometer.io/)
   * [Dropwizard Metrics](https://metrics.dropwizard.io/)
 * Service discovery
