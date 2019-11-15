@@ -66,16 +66,16 @@ We need to first assess the following information:
   * [JLHTTP](https://www.freeutils.net/source/jlhttp/)
   * [Vert.x](https://vertx.io/)
 * Reverse proxies
-  * Apache
-  * Nginx
+  * [Apache](https://httpd.apache.org/)
+  * [Nginx](https://www.nginx.com/)
 * Communication between services
-  * gRPC
-  * HTTP
-  * Protocol buffers
-  * REST
-  * GraphQL
-  * WebSocket
-  * STOMP
+  * [gRPC](https://grpc.io/)
+  * [Cap'n Proto](https://capnproto.org/)
+  * [Protocol buffers](https://developers.google.com/protocol-buffers)
+  * [REST](https://restfulapi.net/)
+  * [GraphQL](https://graphql.org/)
+  * [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+  * [STOMP](https://stomp.github.io/)
   * Message queues if no response is required
 * Data pipeline
   * Netflix Suro
