@@ -204,6 +204,7 @@ We need to first assess the following information:
   * [Sonar](https://www.sonarqube.org/)
   * [SpotBugs](https://spotbugs.github.io/)
   * [PMD](https://pmd.github.io/)
+  * [jchord](https://bitbucket.org/psl-lab/jchord/src/master/)
   * [Findbugs](http://findbugs.sourceforge.net/)
   * [Checkstyle](https://checkstyle.sourceforge.io/)
 * Code formatter
@@ -234,6 +235,15 @@ We need to first assess the following information:
   * Chaos Monkey
   * Resilience4J
   * Hystrix
+  * [Arthas](https://github.com/alibaba/arthas)
+* Profiling
+  * [Async Profiler](https://github.com/jvm-profiling-tools/async-profiler)
+  * [YourKit](https://www.yourkit.com/features/)
+  * [VisualVM](https://visualvm.github.io/)
+  * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html)
+  * [NetBeans Profiler](https://profiler.netbeans.org/)
+  * [Java Flight Recorder](https://docs.oracle.com/javacomponents/jmc-5-4/jfr-runtime-guide/about.htm)
+  * [Java Mission Control](https://www.oracle.com/java/technologies/javase-overview.html)
 * Fuzzing
   * ClusterFuzz
   * American Fuzzy Lop
