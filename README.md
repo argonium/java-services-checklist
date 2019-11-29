@@ -182,17 +182,17 @@ We need to first assess the following information:
 * Logging visualization
   * ELK
 * Caching
-  * Redis
-  * Memcached
-  * Varnish
-  * Squid
+  * [Redis](https://redis.io/)
+  * [Memcached](https://memcached.org/)
+  * [Varnish](https://varnish-cache.org/)
+  * [Squid](http://www.squid-cache.org/)
 * Text search
-  * Elastic
+  * [Elastic](https://www.elastic.co/)
 * Message queues
   * [Apache ActiveMQ](https://activemq.apache.org/)
   * [RabbitMQ](https://www.rabbitmq.com/)
-  * AWS SQS
-  * AWS SNS
+  * [AWS SQS](https://aws.amazon.com/sqs/)
+  * [AWS SNS](https://aws.amazon.com/sns/)
   * SQS+SNS (fanout)
   * [Akka](https://akka.io/)
   * [Apache Pulsar](https://pulsar.apache.org/)
@@ -206,6 +206,7 @@ We need to first assess the following information:
 * Static code analysis
   * [Sonar](https://www.sonarqube.org/)
   * [SpotBugs](https://spotbugs.github.io/)
+  * [Infer](https://fbinfer.com/)
   * [PMD](https://pmd.github.io/)
   * [jchord](https://bitbucket.org/psl-lab/jchord/src/master/)
   * [Findbugs](http://findbugs.sourceforge.net/)
