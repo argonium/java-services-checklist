@@ -43,11 +43,11 @@ We need to first assess the following information:
   * Multiple (microservices + lambda)
   * Migration (monolith -> microservices)
 * Hosting provider
-  * Amazon Web Services
-  * Google Cloud Platform
-  * MS Azure
-  * Digital Ocean
-  * Heroku
+  * [Amazon Web Services](https://aws.amazon.com/)
+  * [Google Cloud Platform](https://cloud.google.com/)
+  * [MS Azure](https://azure.microsoft.com/)
+  * [Digital Ocean](https://www.digitalocean.com/)
+  * [Heroku](https://www.heroku.com/)
 * Framework
   * [Spring](https://spring.io/)
   * [Spring Boot](https://spring.io/projects/spring-boot)
@@ -76,15 +76,18 @@ We need to first assess the following information:
   * [GraphQL](https://graphql.org/)
   * [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
   * [STOMP](https://stomp.github.io/)
+  * [FlatBuffers](https://google.github.io/flatbuffers/)
   * Message queues if no response is required
 * Data pipeline
-  * Netflix Suro
-  * Apache Spark
-  * Apache Kafka
+  * [Netflix Suro](https://github.com/Netflix/suro)
+  * [Apache Spark](https://spark.apache.org/)
+  * [Apache Kafka](https://kafka.apache.org/)
+* Memory Allocators
+  * [jemalloc](http://jemalloc.net/)
 * RDBMS
-  * MySQL
-  * PostgreSQL
-  * AWS Aurora
+  * [MySQL](https://www.mysql.com/)
+  * [PostgreSQL](https://www.postgresql.org/)
+  * [AWS Aurora](https://aws.amazon.com/rds/aurora/)
 * SQL strategies
   * Sharding
   * Read replicas
@@ -94,10 +97,10 @@ We need to first assess the following information:
   * Columnar (HBase, Cassandra)
   * Graph (Neo4J)
 * OLAP
-  * AWS Redshift
+  * [AWS Redshift](https://aws.amazon.com/redshift/)
 * Database versioning
-  * Flyway
-  * Liquibase
+  * [Flyway](https://flywaydb.org/)
+  * [Liquibase](https://www.liquibase.org/)
 * Containerization
   * Docker
   * Kubernetes
