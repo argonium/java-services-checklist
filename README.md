@@ -218,27 +218,26 @@ We need to first assess the following information:
   * [Micrometer](http://micrometer.io/)
   * [Dropwizard Metrics](https://metrics.dropwizard.io/)
 * Service discovery
-  * Zuul
-  * Eureka
-  * Consul
-  * Zookeeper
+  * [Zuul](https://github.com/Netflix/zuul)
+  * [Eureka](https://github.com/Netflix/eureka)
+  * [Consul](https://www.consul.io/)
+  * [Zookeeper](https://zookeeper.apache.org/)
 * Stress testing
-  * Apache JMeter
-  * Siege
-  * Gatling
+  * [Apache JMeter](https://jmeter.apache.org/)
+  * [Siege](https://github.com/JoeDog/siege)
+  * [Gatling](https://gatling.io/)
 * Transaction log tailing
-  * Debezium
-  * LinkedIn Databus
-  * DynamoDB streams
+  * [Debezium](https://debezium.io/)
+  * [LinkedIn Databus](https://github.com/linkedin/databus)
+  * [DynamoDB streams](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.html)
 * Storage
-  * AWS S3
+  * [AWS S3](https://aws.amazon.com/s3/)
 * Serverless
-  * AWS Lambda
+  * [AWS Lambda](https://aws.amazon.com/lambda/)
 * Proactive bug finding
-  * Circuit Breaker
-  * Chaos Monkey
-  * Resilience4J
-  * Hystrix
+  * [Chaos Monkey](https://github.com/Netflix/chaosmonkey)
+  * [Resilience4J](https://github.com/resilience4j/resilience4j)
+  * [Hystrix](https://github.com/Netflix/Hystrix)
   * [Arthas](https://github.com/alibaba/arthas)
 * Profiling
   * [Async Profiler](https://github.com/jvm-profiling-tools/async-profiler)
@@ -289,4 +288,5 @@ We need to first assess the following information:
   * DELETE
 * Deployments should be a one-step process (blue-green deployments)
 * Writing MBeans for JConsole can help with gathering runtime data
+* Enable compression for JSON responses
 
